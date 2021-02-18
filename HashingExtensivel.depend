@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1613611249 source:c:\users\felipe\documents\codeblocksprojects\hashingextensivel\diretorio.cpp
+	<bitset>
+	<cmath>
+	<iostream>
+	<utility>
+	"Diretorio.h"
+
+1613611140 c:\users\felipe\documents\codeblocksprojects\hashingextensivel\diretorio.h
+	<vector>
+	<string>
+	"Balde.h"
+
+1613595075 c:\users\felipe\documents\codeblocksprojects\hashingextensivel\balde.h
+	<string>
+	<vector>
+
+1613609499 source:c:\users\felipe\documents\codeblocksprojects\hashingextensivel\balde.cpp
+	<iostream>
+	"Balde.h"
+
+1613614411 source:c:\users\felipe\documents\codeblocksprojects\hashingextensivel\main.cpp
+	<iostream>
+	<random>
+	"Diretorio.h"
+
